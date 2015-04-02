@@ -1,9 +1,9 @@
 Angular 1.x snippets
 ====================
 
-jsonIO directive
+jsonIo directive
 ----------------
-Load and save JSON to DOM element. JSON is loaded on initialization and saved back when 'json-save' event is emmited. If element has 'extent' attribute, existing object in scope is extended instead of being overwritten.
+Load and save JSON to DOM element. JSON is loaded on initialization and saved back when `json-save` event is emmited. If element has `extend` attribute, existing object in scope is extended instead of being overwritten.
 
     "use strict";
     angular.module("jsonIo", []).directive("jsonIo", function() {
