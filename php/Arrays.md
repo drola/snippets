@@ -15,6 +15,7 @@ PHP arrays snippets
         });
     }
 
+
     /**
      * Filter out keys in $arr that are not in the $list
      * 
@@ -26,4 +27,3 @@ PHP arrays snippets
         return array_intersect_key($arr, array_flip($list));
     }
 
-    

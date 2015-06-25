@@ -7,3 +7,11 @@ h5ai
 
 [h5ai](http://larsjung.de/h5ai/)
 ![h5ai](https://github.com/drola/snippets/raw/master/php/img/h5ai.png "h5ai")
+
+
+DataURI
+-------
+>PHP DataURI is a library which handles URI scheme and provide a way to include data in-line in web pages as if they were external ressources.
+
+[DataURI on GitHub](https://github.com/alchemy-fr/PHP-dataURI)
+[DataURI on Packagist](https://packagist.org/packages/data-uri/data-uri)
